@@ -159,7 +159,7 @@ function Dashboard() {
               <div className="dropdown no-arrow">
                 <a
                   className="dropdown-toggle"
-                  href="#"
+                  href="/#"
                   role="button"
                   id="dropdownMenuLink"
                   data-toggle="dropdown"
@@ -177,14 +177,14 @@ function Dashboard() {
                   aria-labelledby="dropdownMenuLink"
                 >
                   <div className="dropdown-header">Dropdown Header:</div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Another action
                   </a>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Something else here
                   </a>
                 </div>
@@ -216,7 +216,7 @@ function Dashboard() {
               <div className="dropdown no-arrow">
                 <a
                   className="dropdown-toggle"
-                  href="#"
+                  href="/#"
                   role="button"
                   id="dropdownMenuLink"
                   data-toggle="dropdown"
@@ -234,14 +234,14 @@ function Dashboard() {
                   aria-labelledby="dropdownMenuLink"
                 >
                   <div className="dropdown-header">Dropdown Header:</div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Action
                   </a>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Another action
                   </a>
                   <div className="dropdown-divider"></div>
-                  <a className="dropdown-item" href="#">
+                  <a className="dropdown-item" href="/#">
                     Something else here
                   </a>
                 </div>

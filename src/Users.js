@@ -1,5 +1,5 @@
 import React from "react";
-import {Link} from "react-router-dom";
+
 
 
 
@@ -10,19 +10,10 @@ function Users() {
    
       <h1 class="h3 mb-2 text-gray-800">Users</h1>
       <p class="mb-4">
-        DataTables is a third party plugin that is used to generate the demo
-        table below. For more information about DataTables, please visit the{" "}
-        <a target="_blank" href="https://datatables.net">
-          official DataTables documentation
-        </a>
-        .
+        DataTables is a third party plugin that is used to generate the demo official DataTables documentation.
+      
       </p>
-      {/* <Link
-        to="/create-user"
-        class="d-none d-sm-inline-block btn btn-sm btn-primary shadow-sm"
-      >
-        <i class="fas fa-download fa-sm text-white-50"></i> Create User
-      </Link> */}
+      
 
       <div class="card shadow mb-4">
         <div class="card-header py-3">
